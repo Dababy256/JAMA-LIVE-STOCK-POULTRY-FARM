@@ -1,0 +1,35 @@
+{
+  "name": "JAMA Livestock & Poultry Farm",
+  "short_name": "JAMA FARM",
+  "description": "Complete farm management system for JAMA Livestock & Poultry Farm, Kwania District Uganda",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#5c3d1e",
+  "theme_color": "#5c3d1e",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='80' fill='%235c3d1e'/><text y='320' x='256' text-anchor='middle' font-size='320'>🌾</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "en-UG",
+  "dir": "ltr",
+  "scope": "./",
+  "prefer_related_applications": false
+}
